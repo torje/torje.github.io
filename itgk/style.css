@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding:0;
+    border:0;
+}
+a{
+    color: #ddddff;
+}
+html{
+    background-color: #000000;
+}
+body{
+    background-color: #222222;
+}
+div{
+    background-color: #333333;
+}
+div.commandwindowborder{
+    border: 1cm solid #333333;
+}
+div.commandwindow{
+   background-color: #111111;
+   width:10cm;
+   height: 6cm;
+}
+p{
+    font-family: monospace;
+    color: #ffffff;
+}
